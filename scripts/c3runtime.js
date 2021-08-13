@@ -2918,9 +2918,6 @@ this._y)[getx?0:1];else return 0}}}};
 		C3.Plugins.Text.Acts.SetPos,
 		C3.Plugins.Text.Exps.X,
 		C3.Plugins.Text.Exps.Y,
-		C3.Plugins.Button.Acts.SetPos,
-		C3.Plugins.Button.Exps.X,
-		C3.Plugins.Button.Exps.Y,
 		C3.Plugins.Sprite.Acts.SetPos,
 		C3.Plugins.Sprite.Exps.X,
 		C3.Plugins.Sprite.Exps.Y,
@@ -2977,7 +2974,6 @@ this._y)[getx?0:1];else return 0}}}};
 		{Regenerate: 0},
 		{TaskChoice: 0},
 		{Instructions: 0},
-		{Complete: 0},
 		{Time: 0},
 		{TimeElapsed: 0},
 		{Selection: 0},
@@ -2985,6 +2981,8 @@ this._y)[getx?0:1];else return 0}}}};
 		{Text: 0},
 		{Background: 0},
 		{Touch: 0},
+		{Sprite: 0},
+		{BtnComplete: 0},
 		{BingoLineCount: 0},
 		{IsALine: 0}
 	];
